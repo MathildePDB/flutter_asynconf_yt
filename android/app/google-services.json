@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003185232331",
+    "project_id": "asynconf-37060",
+    "storage_bucket": "asynconf-37060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003185232331:android:056a32619036d6f826be4e",
+        "android_client_info": {
+          "package_name": "fr.mathildepdb.asynconf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuLBvPEKf70s2KeYzzuq8K_rUvRCHyOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
